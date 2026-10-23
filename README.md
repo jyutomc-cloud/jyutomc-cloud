@@ -12,7 +12,7 @@
   &nbsp;·&nbsp;
   <a href="https://eaide.vercel.app">EAIDE</a>
   &nbsp;·&nbsp;
-  <a href="https://ruangtiva-design-studio.vercel.app">Ruangtiva Studio</a>
+  <a href="https://vaanmusic.vercel.app">Vaan Music</a>
 </p>
 
 ## GitHub Statistics
