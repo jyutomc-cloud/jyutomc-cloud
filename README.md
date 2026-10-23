@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Athallah Devan Ramadhan · Web Developer" width="100%" />
+</p>
 
-<!--
-**jyutomc-cloud/jyutomc-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Web Developer · RPL Graduate · Indonesia</strong>
+  <br />
+  Building useful digital experiences and continuously learning through web development.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/jyutomc-cloud">GitHub Profile</a>
+  &nbsp;·&nbsp;
+  <a href="https://eaide.vercel.app">EAIDE</a>
+  &nbsp;·&nbsp;
+  <a href="https://ruangtiva-design-studio.vercel.app">Ruangtiva Studio</a>
+</p>
